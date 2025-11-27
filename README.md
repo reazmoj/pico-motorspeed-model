@@ -2,7 +2,7 @@
 
 ## 📄 Project Overview
 
-This project shows how to integrate a machine-learning model on a Raspberry Pi Pico W to build a motor speed controller that adjusts motor speed automatically based on sensor input. ([Medium][1])
+This project shows how to integrate a machine-learning model on a Raspberry Pi Pico W to build a motor speed controller that adjusts motor speed automatically based on sensor input. (for more detail you can read project explanation in this link[Medium][1])
 
 ## 🧠 What It Does
 
