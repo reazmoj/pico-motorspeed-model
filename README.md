@@ -1,7 +1,3 @@
-Here’s a simple, summarized **README-style** overview of your project page:
-
----
-
 # Building a Machine Learning–Powered Motor Controller with Raspberry Pi Pico W 🚀
 
 ## 📄 Project Overview
